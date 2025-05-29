@@ -46,7 +46,6 @@ def print_stars(score):
     """Print stars equal to the integer value of the score."""
     print("*" * int(score))
 
-
 # Program entry point
 if __name__ == "__main__":
     main()
