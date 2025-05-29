@@ -25,6 +25,5 @@ def celsius_to_fahrenheit(celsius):
 def fahrenheit_to_celsius(fahrenheit):
     return (fahrenheit - 32) * 5 / 9
 
-
 if __name__ == "__main__":
     main()

@@ -20,6 +20,5 @@ def get_score_result(score):
     else:
         return "Bad"
 
-
 if __name__ == "__main__":
     main()

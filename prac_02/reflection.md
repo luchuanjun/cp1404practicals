@@ -15,4 +15,4 @@ I tend to delay watching the lecture videos until the last minute. I need to sta
 I don’t read the instructions carefully enough sometimes, which leads to mistakes. I will start reading everything more thoroughly before I begin.
 
 6.What are you doing really well for practicals in this subject?
-I’ve been using good coding practices, such as writing clear function names and following the correct structure.
+ I’ve been using good coding practices, such as writing clear function names and following the correct structure.

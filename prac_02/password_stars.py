@@ -10,7 +10,6 @@ def get_password():
         password = input("Enter password）: ")
     return password
 
-
 def print_asterisks(password, symbol='*'):
     print(symbol * len(password))
 
