@@ -14,8 +14,6 @@ def get_password():
 def print_asterisks(password, symbol='*'):
     print(symbol * len(password))
 
-
-
 if __name__ == '__main__':
     main()
 
