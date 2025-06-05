@@ -16,5 +16,5 @@ print(first + second)  # 应该是59
 total = 0
 with open('numbers.txt', 'r') as file:
     for line in file:
-        total += int(line.strip())
+         total += int(line.strip())
 print(total)

@@ -24,6 +24,7 @@ while MIN_PRICE <= price <= MAX_PRICE:
     else:
         price_change = random.uniform(-MAX_DECREASE, 0)
 
+
     price *= (1 + price_change)
     print(f"New price: ${price:,.2f}")
 

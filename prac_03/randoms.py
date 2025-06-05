@@ -22,6 +22,5 @@ def main():
     word_format = "ccvcvvc"  # example format
     word = generate_word(word_format)
     print(f"Generated word: {word}")
-
 if __name__ == "__main__":
     main()
