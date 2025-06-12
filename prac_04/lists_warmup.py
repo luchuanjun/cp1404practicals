@@ -13,7 +13,7 @@ numbers = [3, 1, 4, 1, 5, 9, 2]
 
 #Changing elements
 numbers[0] = "ten"  # Change first element to string "ten"
-numbers[-1] = 1       # Change last element to 1
+numbers[-1] = 1     # Change last element to 1
 
 #Printing elements except the first two
 print(numbers[2:])
