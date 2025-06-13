@@ -12,6 +12,7 @@ def main():
     incomes = []
 
 
+
     for month in range(1, number_of_months + 1):
         income = float(input(f"Enter income for month {month}: "))  # using f-string
         incomes.append(income)
