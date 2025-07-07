@@ -4,6 +4,7 @@ class Car:
         self.fuel = fuel
         self.odometer = 0
 
+
     def add_fuel(self, amount):
         if amount > 0:
             self.fuel += amount
