@@ -1,0 +1,7 @@
+Name,Typing,Reflection,PointerArithmetic
+Python,Dynamic,True,False
+C,Static,False,True
+Java,Static,True,False
+C++,Static,False,True
+Rust,Static,False,False
+Go,Static,False,False
